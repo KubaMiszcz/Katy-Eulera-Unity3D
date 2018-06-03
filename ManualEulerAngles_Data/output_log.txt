@@ -1,0 +1,25 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6819)
+    Vendor:   ATI
+    VRAM:     2028 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Desktop\==unitygithub\xxx\ManualEulerAngles_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.222 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
